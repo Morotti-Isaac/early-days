@@ -1,2 +1,2 @@
 # early-days
-my first projects as a student
+my part as one of the involved on the creation of the SmartProthesis (name may or may not change)
